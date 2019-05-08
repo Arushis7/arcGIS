@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Ports in India",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Kandla", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 70.1872551, 23.008141 ] } },
+{ "type": "Feature", "properties": { "Name": "Nhava Sheva", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.951187500000103, 18.9499361 ] } },
+{ "type": "Feature", "properties": { "Name": "Mumbai Port Trust", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.8441629, 18.9482881 ] } },
+{ "type": "Feature", "properties": { "Name": "Mormugao Port", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 73.799998700000103, 15.4111239 ] } },
+{ "type": "Feature", "properties": { "Name": "I.G.I. Airport Terminal 2", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.085980000000106, 28.558667 ] } },
+{ "type": "Feature", "properties": { "Name": "Mumbai", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.8776559, 19.0759837 ] } },
+{ "type": "Feature", "properties": { "Name": "NCRRR", "description": null, "tessellate": -1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.1987272, 28.9816568 ], [ 78.1874968, 29.5996726 ], [ 79.1542937, 30.0666597 ], [ 79.6596647, 30.5219903 ], [ 78.9565397, 30.8620958 ], [ 77.9128386, 31.1728033 ], [ 76.3747526, 31.0881654 ], [ 74.9904753, 29.8000772 ], [ 74.8037077, 28.5434549 ], [ 75.4519011, 27.2716611 ], [ 77.1328093, 26.8313646 ], [ 77.8249479, 26.054256 ], [ 79.7036101, 26.7038472 ], [ 80.6374479, 27.2521291 ], [ 80.6374479, 28.0985768 ], [ 79.769528, 28.0016184 ], [ 78.4511687, 27.320476 ], [ 78.3742644, 28.1470231 ], [ 78.3742644, 28.4227484 ], [ 78.2753874, 28.6543828 ], [ 77.7480437, 28.9720458 ], [ 77.1987272, 28.9816568 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "Line 8", "description": null, "tessellate": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 80.3376305, 26.4337946 ], [ 81.4142906, 26.4141175 ], [ 82.3371422, 26.2073058 ], [ 82.2931969, 25.6243003 ], [ 81.7383873, 25.3019288 ], [ 81.024276, 25.2969625 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Nagpur", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 79.088154600000095, 21.1458004 ] } },
+{ "type": "Feature", "properties": { "Name": "Point 12", "description": null, "tessellate": -1 }, "geometry": { "type": "Point", "coordinates": [ 76.3583562, 33.6743043 ] } }
+]
+}
